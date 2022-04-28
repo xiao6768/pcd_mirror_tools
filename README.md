@@ -1,6 +1,8 @@
 # pcd_mirror_tools
 
-This tool convert Carla HD map from Left-handed coordinate to right-handed coordinate.
+This tool convert Carla HD map from Left-handed coordinate to right-handed coordinate for Lidar-localization use , for example Autoware.AI ...etc.
+
+
 
 ## usage 
 
